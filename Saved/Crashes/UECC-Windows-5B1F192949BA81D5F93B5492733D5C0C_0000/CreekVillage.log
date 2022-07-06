@@ -1,0 +1,813 @@
+﻿Log file open, 09/19/21 08:13:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CreekVillage
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.271845
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Bridge
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorDebugTools
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin InterchangeEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Interchange
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogConfig: Display: Loading platform ini files took 0.31 seconds
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-EarlyAccess-CL-16682836
+LogInit: Engine Version: 5.0.0-16682836+++UE5+Release-5.0-EarlyAccess
+LogInit: Compatible Engine Version: 5.0.0-16433597+++UE5+Release-5.0-EarlyAccess
+LogInit: Net CL: 16433597
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jun 16 2021 04:23:38
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0-EarlyAccess
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0EA/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 32
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 7
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 44
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 26
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 10
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[r.DynamicGlobalIlluminationMethod:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[r.ReflectionMethod:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[r.Shadow.Virtual.Enable:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2021.09.19-13.13.12:038][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.09.19-13.13.12:038][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2021.09.19-13.13.12:038][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2021.09.19-13.13.12:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.19-13.13.12:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Lumen.Reflections.Allow:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Lumen.Radiosity:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.ScreenSpaceBentNormal:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2021.09.19-13.13.12:050][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2021.09.19-13.13.12:050][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2021.09.19-13.13.12:050][  0]LogHAL: Display: Platform has ~ 16 GB [16887824384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.19-13.13.12:050][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2021.09.19-13.13.12:050][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2021.09.19-13.13.12:050][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.09.19-13.13.12:050][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.Lumen.Reflections.Allow:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.09.19-13.13.12:051][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2021.09.19-13.13.12:051][  0]LogInit: Computer: LAPTOP
+[2021.09.19-13.13.12:051][  0]LogInit: User: jbrom
+[2021.09.19-13.13.12:051][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.19-13.13.12:051][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.19-13.13.12:051][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.09.19-13.13.12:051][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2021.09.19-13.13.12:051][  0]LogMemory: Process Physical Memory: 167.55 MB used, 167.56 MB peak
+[2021.09.19-13.13.12:051][  0]LogMemory: Process Virtual Memory: 145.59 MB used, 145.59 MB peak
+[2021.09.19-13.13.12:051][  0]LogMemory: Physical Memory: 8500.22 MB used,  7605.26 MB free, 16105.48 MB total
+[2021.09.19-13.13.12:051][  0]LogMemory: Virtual Memory: 11750.65 MB used,  14230.73 MB free, 25981.38 MB total
+[2021.09.19-13.13.12:055][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.09.19-13.13.12:071][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2021.09.19-13.13.12:074][  0]LogInit: Using OS detected language (en-US).
+[2021.09.19-13.13.12:074][  0]LogInit: Using OS detected locale (en-US).
+[2021.09.19-13.13.12:079][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+                                                                                                                                                                                                                                                                                                                                                                                       [2021.09.19-13.13.14:620][  0]LogD3D12RHI: Aftermath initialized
+[2021.09.19-13.13.14:620][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2021.09.19-13.13.14:635][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.19-13.13.14:775][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce MX250 (Max supported Feature Level 12_1)
+[2021.09.19-13.13.14:775][  0]LogD3D12RHI: Adapter has 1983MB of dedicated video memory, 0MB of dedicated system memory, and 8052MB of shared system memory, 1 output[s]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              [2021.09.19-13.13.15:236][  0]LogRendererCore: Ray tracing is disabled. Reason: not supported by current RHI.
+[2021.09.19-13.13.15:236][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/jbrom/SynologyDrive/Coding and Design/Unreal Engine/CreekVillage/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2021.09.19-13.13.15:236][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2021.09.19-13.13.15:237][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.19-13.13.15:337][  0]LogDerivedDataCache: Loaded boot cache 0.10s 189MB C:/Users/jbrom/AppData/Local/UnrealEngine/5.0/DerivedDataCache/Boot.ddc.
+[2021.09.19-13.13.15:337][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jbrom/AppData/Local/UnrealEngine/5.0/DerivedDataCache/Boot.ddc
+[2021.09.19-13.13.15:337][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jbrom/SynologyDrive/Coding and Design/Unreal Engine/CreekVillage/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.19-13.13.15:337][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.19-13.13.15:337][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jbrom/SynologyDrive/Coding and Design/Unreal Engine/CreekVillage/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.19-13.13.15:337][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.19-13.13.15:357][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.19-13.13.15:358][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.19-13.13.15:358][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.19-13.13.15:368][  0]LogDerivedDataCache: Speed tests for C:/Users/jbrom/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.09.19-13.13.15:369][  0]LogDerivedDataCache: Display: Performance to C:/Users/jbrom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=205.81MBs, RandomWriteSpeed=160.47MBs. Assigned SpeedClass 'Local'
+[2021.09.19-13.13.15:370][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jbrom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.19-13.13.15:370][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.19-13.13.15:370][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.19-13.13.15:370][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/jbrom/SynologyDrive/Coding and Design/Unreal Engine/CreekVillage/Intermediate/Shaders/WorkingDirectory/15456/).
+[2021.09.19-13.13.15:370][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jbrom/AppData/Local/Temp/UnrealShaderWorkingDir/1B3BF98E4CCE3949B4FA31B8BDE8FCAB/'.
+[2021.09.19-13.13.15:371][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.09.19-13.13.15:371][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.19-13.13.18:266][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2021.09.19-13.13.18:266][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2021.09.19-13.13.18:266][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2021.09.19-13.13.19:364][  0]LogSlate: Using FreeType 2.10.0
+[2021.09.19-13.13.19:380][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.19-13.13.19:412][  0]LogAssetRegistry: FAssetRegistry took 0.0089 seconds to start up
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       [2021.09.19-13.13.20:061][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.19-13.13.20:061][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.19-13.13.20:061][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.19-13.13.20:061][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.19-13.13.20:061][  0]LogMeshMerging: No distributed automatic mesh merging module available
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             [2021.09.19-13.13.20:977][  0]LogMaterial: Display: Missing cached shadermap for M_ChromeBall in PCD3D_SM5, Default, SM5 (DDC key hash: ECD58C10FA8D747F900324BD65D5996611F42616), compiling. 
+[2021.09.19-13.13.21:749][  0]LogMaterial: Display: Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM5, Default, SM5 (DDC key hash: 6EB703301EF455F0EF8AA33D6516D26017FF8223), compiling. 
+                                                                                                                                                                                                                                [2021.09.19-13.13.22:312][  0]LogSlate: Border
+[2021.09.19-13.13.22:312][  0]LogSlate: BreadcrumbButton
+[2021.09.19-13.13.22:312][  0]LogSlate: Default
+[2021.09.19-13.13.22:312][  0]LogSlate: ListView
+[2021.09.19-13.13.22:312][  0]LogSlate: SoftwareCursor_CardinalCross
+[2021.09.19-13.13.22:312][  0]LogSlate: SoftwareCursor_Grab
+[2021.09.19-13.13.22:312][  0]LogSlate: TableView.DarkRow
+[2021.09.19-13.13.22:312][  0]LogSlate: TableView.Row
+[2021.09.19-13.13.22:312][  0]LogSlate: TreeView
+                                                                                                                                                                                                                                                                                                                                                                                [2021.09.19-13.13.22:731][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough in PCD3D_SM5, Default, SM5 (DDC key hash: 3687B123132E9BBE46DACFC1D1B8B626A73515D2), compiling. 
+[2021.09.19-13.13.22:768][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM5, Default, SM5 (DDC key hash: BF5733FC5D35D9DCEBD218E57869203EA17F0860), compiling. 
+[2021.09.19-13.13.22:846][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 76764EC6D8F6478FB58CD224A98D061B6A304370), compiling. 
+[2021.09.19-13.13.22:900][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 9AFF013C6145825157D46805B19E2DAA30185F95), compiling. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  [2021.09.19-13.13.23:235][  0]LogMaterial: Display: Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A92EB179B5E3BCFE192DBBA2A9664CBEC3903683), compiling. 
+[2021.09.19-13.13.23:272][  0]LogMaterial: Display: Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4A0CA9AC872D13790008293EDFBDE54630578145), compiling. 
+                                                                                                                                                                                                                                                                                                                                                                                             [2021.09.19-13.13.23:750][  0]LogStaticMesh: StaticMesh /Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.S_1_Unit_Plane should be resaved to improve async compilation performance.
+[2021.09.19-13.13.23:763][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM5, Default, SM5 (DDC key hash: 37557F2D6FB715A982D890E6ACDCC67F8FE9E87C), compiling. 
+[2021.09.19-13.13.24:019][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorCube.EditorCube should be resaved to improve async compilation performance.
+[2021.09.19-13.13.24:051][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorSphere.EditorSphere should be resaved to improve async compilation performance.
+[2021.09.19-13.13.24:065][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorPlane.EditorPlane should be resaved to improve async compilation performance.
+[2021.09.19-13.13.24:080][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorCylinder.EditorCylinder should be resaved to improve async compilation performance.
+[2021.09.19-13.13.24:091][  0]SourceControl: Source control is disabled
+[2021.09.19-13.13.24:100][  0]SourceControl: Source control is disabled
+                                                                                                                                                                                                                                                                                                                                                                                                           [2021.09.19-13.13.24:579][  0]SourceControl: Source control is disabled
+[2021.09.19-13.13.24:579][  0]SourceControl: Source control is disabled
+[2021.09.19-13.13.24:613][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FCDE87C1D8B2F69EE54DB9AE974F4393EA16CB86), compiling. 
+[2021.09.19-13.13.24:720][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmoHeight_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1E6C4986014B8B65D71B0B146EEE6DB254C24D13), compiling. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    [2021.09.19-13.13.25:462][  0]LogMaterial: Display: Missing cached shadermap for HairDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DE70FE58FBBEFDFF39DB1EE8D78E33131F99D9C8), compiling. 
+[2021.09.19-13.13.25:681][  0]LogMaterial: Display: Missing cached shadermap for HairCardsDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 379B4CEF57BAD51EF89F8B3F8AFD723D7B699EF6), compiling. 
+                                                                                                                                                                                                             [2021.09.19-13.13.26:178][  0]LogHMD: PokeAHoleMaterial loaded successfully
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  [2021.09.19-13.13.26:825][  0]LogMaterial: Display: Missing cached shadermap for DefaultSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FB069E450C419A84788FEA0D0763DCF2A313F659), compiling. 
+[2021.09.19-13.13.26:940][  0]LogMaterial: Display: Missing cached shadermap for OpaqueUnlitSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 210C2A2C1EDF77F5D82BD22DAC6CD9C25DC04CB1), compiling. 
+[2021.09.19-13.13.27:149][  0]LogMaterial: Display: Missing cached shadermap for BaseColor in PCD3D_SM5, Default, SM5 (DDC key hash: C156FD4B3E47DB15C94041975A6C3FDDD603614B), compiling. 
+[2021.09.19-13.13.27:189][  0]LogMaterial: Display: Missing cached shadermap for CustomDepth in PCD3D_SM5, Default, SM5 (DDC key hash: E288E4A13CCFFBF762209E391FD0A75F8073E69A), compiling. 
+[2021.09.19-13.13.27:245][  0]LogMaterial: Display: Missing cached shadermap for CustomStencil in PCD3D_SM5, Default, SM5 (DDC key hash: F4AB4750889CA032C3F447D2BF424FB2592F122F), compiling. 
+[2021.09.19-13.13.27:293][  0]LogMaterial: Display: Missing cached shadermap for FinalImage in PCD3D_SM5, Default, SM5 (DDC key hash: 891D4716E44F5EAD4D84D561F8D999A8A3C8C83E), compiling. 
+[2021.09.19-13.13.27:337][  0]LogMaterial: Display: Missing cached shadermap for LightingModel in PCD3D_SM5, Default, SM5 (DDC key hash: 6B143C0CA74B5C76D0E2046139A01E84FD049C70), compiling. 
+[2021.09.19-13.13.27:392][  0]LogMaterial: Display: Missing cached shadermap for MaterialAO in PCD3D_SM5, Default, SM5 (DDC key hash: 1BCD8865DB796A4CE51D85849CF7208F754F25D8), compiling. 
+[2021.09.19-13.13.27:435][  0]LogMaterial: Display: Missing cached shadermap for Metallic in PCD3D_SM5, Default, SM5 (DDC key hash: FB3A1F418C42D2413A38486C2EAA1D30C6F009DE), compiling. 
+[2021.09.19-13.13.27:481][  0]LogMaterial: Display: Missing cached shadermap for Opacity in PCD3D_SM5, Default, SM5 (DDC key hash: ACF48A1911499767598713B2029789BBF3C06581), compiling. 
+[2021.09.19-13.13.27:523][  0]LogMaterial: Display: Missing cached shadermap for Roughness in PCD3D_SM5, Default, SM5 (DDC key hash: EF5297087EC41A8A792A96DF42964871BCAEBCF5), compiling. 
+[2021.09.19-13.13.27:597][  0]LogMaterial: Display: Missing cached shadermap for Anisotropy in PCD3D_SM5, Default, SM5 (DDC key hash: 4171BF38D987A1446DC2E3F4C1E6ADE458E7CC6A), compiling. 
+[2021.09.19-13.13.27:642][  0]LogMaterial: Display: Missing cached shadermap for SceneColor in PCD3D_SM5, Default, SM5 (DDC key hash: 74B6C0FBB76CED7C2A7E6C2FFEA177D3DA13D94C), compiling. 
+[2021.09.19-13.13.27:685][  0]LogMaterial: Display: Missing cached shadermap for SceneDepth in PCD3D_SM5, Default, SM5 (DDC key hash: FF446166723910DFCE309E3FD9808229901AA8E8), compiling. 
+[2021.09.19-13.13.27:735][  0]LogMaterial: Display: Missing cached shadermap for SeparateTranslucencyRGB in PCD3D_SM5, Default, SM5 (DDC key hash: 105C1568054CC9F6BF72A3EB9D0189E7FF029A06), compiling. 
+[2021.09.19-13.13.27:779][  0]LogMaterial: Display: Missing cached shadermap for SeparateTranslucencyA in PCD3D_SM5, Default, SM5 (DDC key hash: 6836D5658419D206AF88610364E88A396331BE5F), compiling. 
+[2021.09.19-13.13.27:829][  0]LogMaterial: Display: Missing cached shadermap for Specular in PCD3D_SM5, Default, SM5 (DDC key hash: 183BE2EC9170F39BD64111131AA32036F6EC7318), compiling. 
+[2021.09.19-13.13.27:886][  0]LogMaterial: Display: Missing cached shadermap for SubsurfaceColor in PCD3D_SM5, Default, SM5 (DDC key hash: 2A936A161EAA42302B186621B50D2A14BB408DB7), compiling. 
+[2021.09.19-13.13.27:929][  0]LogMaterial: Display: Missing cached shadermap for WorldNormal in PCD3D_SM5, Default, SM5 (DDC key hash: DAF7D6149FBBFB681B084E2743793E8A7246E6DF), compiling. 
+[2021.09.19-13.13.27:978][  0]LogMaterial: Display: Missing cached shadermap for WorldTangent in PCD3D_SM5, Default, SM5 (DDC key hash: 5335163C9399C589E20AC72C36CF0BC77ED6BD4B), compiling. 
+[2021.09.19-13.13.28:034][  0]LogMaterial: Display: Missing cached shadermap for AmbientOcclusion in PCD3D_SM5, Default, SM5 (DDC key hash: 79721C58A4B2470373A3EC5CF02797CAC97E090F), compiling. 
+[2021.09.19-13.13.28:105][  0]LogMaterial: Display: Missing cached shadermap for CustomDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: 18E7C490C87B827A3FCE00A1138ABF4A11F19176), compiling. 
+[2021.09.19-13.13.28:149][  0]LogMaterial: Display: Missing cached shadermap for SceneDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: 67CF1FD0514DDEB27995BAE587B05CF6C841238C), compiling. 
+[2021.09.19-13.13.28:194][  0]LogMaterial: Display: Missing cached shadermap for Velocity in PCD3D_SM5, Default, SM5 (DDC key hash: F1E9705A75B33434EDE0156C5B8A0605A607B90F), compiling. 
+[2021.09.19-13.13.28:236][  0]LogMaterial: Display: Missing cached shadermap for PreTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: 1A7E9BC9100B384BAA77F4A97929984628E2EAC6), compiling. 
+[2021.09.19-13.13.28:282][  0]LogMaterial: Display: Missing cached shadermap for PostTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: 679BA7B8B350E6BF78DF0D1A55C0A8E39320AFF3), compiling. 
+[2021.09.19-13.13.28:671][  0]LogMaterial: Display: Missing cached shadermap for DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CA75D0C9ECA115EB9C0FFA54EC55A9359C9EDD84), compiling. 
+[2021.09.19-13.13.29:171][  0]LogMaterial: Display: Missing cached shadermap for M_Emissive_Color in PCD3D_SM5, Default, SM5 (DDC key hash: 3BFF182926F3DB8BBA7E95C491C47E21750FF372), compiling. 
+[2021.09.19-13.13.29:247][  0]LogMaterial: Display: Missing cached shadermap for VertexColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B8A6D638CCC37DF46BF63D27FE6EAC4515CFF155), compiling. 
+[2021.09.19-13.13.29:716][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9C94D4C23707E76923E1367155B2E791D8584CE3), compiling. Is special engine material.
+[2021.09.19-13.13.31:548][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.19-13.13.31:559][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     [2021.09.19-13.13.32:212][  0]LogMaterial: Display: Missing cached shadermap for SpeedTreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 68A59FE5983F51224A90C89AAF6C94166B001C30), compiling. 
+                                                                                                                                                                                                            [2021.09.19-13.13.33:003][  0]LogMaterial: Display: Missing cached shadermap for M_VolumeRenderSphereTracePP in PCD3D_SM5, Default, SM5 (DDC key hash: C18BA29775B59E3019EB9F7D86F82EA18F83393D), compiling. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  [2021.09.19-13.13.33:606][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jbrom/SynologyDrive/Coding and Design/Unreal Engine/CreekVillage/Saved/Collections/' took 0.00s
+[2021.09.19-13.13.33:606][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jbrom/SynologyDrive/Coding and Design/Unreal Engine/CreekVillage/Content/Developers/jbrom/Collections/' took 0.00s
+[2021.09.19-13.13.33:606][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jbrom/SynologyDrive/Coding and Design/Unreal Engine/CreekVillage/Content/Collections/' took 0.00s
+[2021.09.19-13.13.33:606][  0]LogMaterial: Display: Missing cached shadermap for OculusMR_ChromaKey in PCD3D_SM5, Default, SM5 (DDC key hash: 6C188C8DF836182082E882E36FA7197F4B11287B), compiling. 
+[2021.09.19-13.13.33:661][  0]LogMaterial: Display: Missing cached shadermap for OculusMR_OpaqueColoredMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 54D7E6E43BCFDC5DD6AEF817E12518E3979B7D5B), compiling. 
+[2021.09.19-13.13.33:699][  0]LogOcInput: OculusInput pre-init called
+[2021.09.19-13.13.33:730][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.09.19-13.13.33:731][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        [2021.09.19-13.13.37:415][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B3ABB74583A94CAD99B256E8FC5E3F4E45AB4792), compiling. Is special engine material.
+[2021.09.19-13.13.38:877][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM5, Default, SM5 (DDC key hash: B08E0E6C9CE9703F22E69FE152785A01E0A6F6F6), compiling. Is special engine material.
+[2021.09.19-13.13.41:156][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6D23C0881BAB0032FCA667D34F8CFB6553E25E82), compiling. Is special engine material.
+[2021.09.19-13.13.43:413][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM5, Default, SM5 (DDC key hash: 1520F4A9876CC5D2DC20A32CEDCA23E777EA1CDA), compiling. Is special engine material.
+[2021.09.19-13.13.44:775][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_ColorOnly in PCD3D_SM5, Default, SM5 (DDC key hash: 1460F2FF0EC08C571AED9C78522DD58B8A063540), compiling. 
+[2021.09.19-13.13.44:944][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_AlphaAsColor in PCD3D_SM5, Default, SM5 (DDC key hash: 9F575D31D416131AE58CFC5D1207633DEB6C0302), compiling. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      [2021.09.19-13.13.45:650][  0]LogMaterial: Display: Missing cached shadermap for M_InvalidLightmapSettings in PCD3D_SM5, Default, SM5 (DDC key hash: DFF62A7BC561257A4550578815DF26419D3EC0FA), compiling. 
+[2021.09.19-13.13.45:780][  0]LogMaterial: Display: Missing cached shadermap for GizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C0B19578F60AA4019FF179E7ACCE1A6A319E5E09), compiling. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        [2021.09.19-13.13.46:263][  0]LogMaterial: Display: Missing cached shadermap for ClothMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 70FEE0B8A2A7E9216708A3F7DD0EF2582A5DC763), compiling. 
+[2021.09.19-13.13.46:313][  0]LogMaterial: Display: Missing cached shadermap for ClothMaterial_WF in PCD3D_SM5, Default, SM5 (DDC key hash: 73EA76AA02F81406C86A613222E1BC3F7E70899E), compiling. 
+[2021.09.19-13.13.46:364][  0]LogMaterial: Display: Missing cached shadermap for DebugEditorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 665EA30E67BD18944E163177724226A3590EAA59), compiling. 
+[2021.09.19-13.13.46:428][  0]LogMaterial: Display: Missing cached shadermap for PhysicalMaterialMaskMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 88FF780DD96DEE35FCF007F3D05A952725B5E515), compiling. 
+                                                                                                                                                                                                                  [2021.09.19-13.13.47:077][  0]LogMaterial: Display: Missing cached shadermap for BaseFlattenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F81D944868CB67778CAC6C12C6080AEBC0EEDFB2), compiling. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [2021.09.19-13.13.48:647][  0]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2021.09.19-13.13.48:648][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.19-13.13.48:727][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.19-13.13.48:727][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.19-13.13.48:730][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.19-13.13.48:730][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.19-13.13.48:732][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.19-13.13.48:732][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.19-13.13.48:732][  0]LogInit: FAudioDevice initialized.
+[2021.09.19-13.13.48:732][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.09.19-13.13.48:733][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      [2021.09.19-13.13.49:208][  0]BlueprintLog: New page: Editor Load
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       [2021.09.19-13.13.50:136][  0]LogMaterial: Warning: Incomplete material WireframeMaterial, missing FMaterialShader (FTranslucentLightingInjectPS, 1).
+[2021.09.19-13.13.50:136][  0]LogMaterial: Display: Incomplete cached shadermap for WireframeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: ), compiling. Is special engine material.
+[2021.09.19-13.13.52:110][  0]LogMaterial: Warning: Incomplete material LevelColorationLitMaterial, missing FMaterialShader (FTranslucentLightingInjectPS, 1).
+[2021.09.19-13.13.52:110][  0]LogMaterial: Display: Incomplete cached shadermap for LevelColorationLitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: ), compiling. Is special engine material.
+[2021.09.19-13.13.54:684][  0]LogMaterial: Warning: Incomplete material LevelColorationUnlitMaterial, missing FMaterialShader (FTranslucentLightingInjectPS, 1).
+[2021.09.19-13.13.54:684][  0]LogMaterial: Display: Incomplete cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: ), compiling. Is special engine material.
+[2021.09.19-13.13.56:003][  0]LogMaterial: Warning: Incomplete material MAT_LevelColorationLitLightmapUV, missing FMaterialShader (FTranslucentLightingInjectPS, 1).
+[2021.09.19-13.13.56:003][  0]LogMaterial: Display: Incomplete cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM5, Default, SM5 (DDC key hash: ), compiling. Is special engine material.
+[2021.09.19-13.13.58:198][  0]LogMaterial: Warning: Incomplete material ShadedLevelColorationLitMaterial, missing FMaterialShader (FTranslucentLightingInjectPS, 1).
+[2021.09.19-13.13.58:199][  0]LogMaterial: Display: Incomplete cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: ), compiling. Is special engine material.
+[2021.09.19-13.14.00:355][  0]LogMaterial: Warning: Incomplete material ShadedLevelColorationUnlitMateri, missing FMaterialShader (FTranslucentLightingInjectPS, 1).
+[2021.09.19-13.14.00:355][  0]LogMaterial: Display: Incomplete cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM5, Default, SM5 (DDC key hash: ), compiling. Is special engine material.
+[2021.09.19-13.14.01:430][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.19-13.14.01:430][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.19-13.14.02:303][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.09.19-13.14.02:303][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.19-13.14.02:558][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jbrom/SynologyDrive/Coding and Design/Unreal Engine/CreekVillage/Content/' took 0.10s
+[2021.09.19-13.14.03:223][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.09.19-13.14.03:235][  0]SourceControl: Source control is disabled
+[2021.09.19-13.14.03:235][  0]LogUnrealEdMisc: Loading editor; pre map load, took 53.328
+[2021.09.19-13.14.03:236][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jbrom/SynologyDrive/Coding and Design/Unreal Engine/CreekVillage/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.19-13.14.03:248][  0]LightingResults: New page: Lighting Build
+[2021.09.19-13.14.03:254][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.09.19-13.14.03:254][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.19-13.14.03:254][  0]MapCheck: New page: Map Check
+[2021.09.19-13.14.03:254][  0]LightingResults: New page: Lighting Build
+[2021.09.19-13.14.03:273][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.09.19-13.14.03:353][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_Jump.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:354][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_Jump.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:354][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_Jump.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:355][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_Jump.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:355][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_Jump.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:366][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonJump_Loop.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:366][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonJump_Loop.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:367][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonJump_Loop.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:367][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonJump_Loop.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:380][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonJump_Start.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:380][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonJump_Start.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:380][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonJump_Start.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:380][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonJump_Start.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:400][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonIdle.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:400][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonIdle.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:401][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonIdle.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:401][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonIdle.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:411][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonRun.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:411][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonRun.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:412][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonRun.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:412][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonRun.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:430][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonWalk.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:430][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonWalk.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:431][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonWalk.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:431][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonWalk.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:432][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_IdleRun_2D.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:432][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_IdleRun_2D.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:433][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_IdleRun_2D.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:433][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_IdleRun_2D.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:486][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_AnimBP.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:486][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_AnimBP.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:487][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_AnimBP.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:487][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPerson_AnimBP.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:489][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:489][  0]LoadErrors: Failed to load /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by ThirdPerson_AnimBP_C
+[2021.09.19-13.14.03:489][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:491][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:491][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:492][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:492][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.03:493][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.03:493][  0]LoadErrors: Failed to load /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by ThirdPerson_AnimBP
+[2021.09.19-13.14.03:493][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [2021.09.19-13.14.04:378][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonIdle.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.04:378][  0]LoadErrors: Failed to load /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by ThirdPersonIdle
+[2021.09.19-13.14.04:379][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonIdle.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.04:384][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonRun.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.04:384][  0]LoadErrors: Failed to load /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by ThirdPersonRun
+[2021.09.19-13.14.04:384][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonRun.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2021.09.19-13.14.04:393][  0]LogLinker: Warning: [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonWalk.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2021.09.19-13.14.04:393][  0]LoadErrors: Failed to load /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by ThirdPersonWalk
+[2021.09.19-13.14.04:393][  0]LoadErrors: Error: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton : [AssetLog] C:\Users\jbrom\SynologyDrive\Coding and Design\Unreal Engine\CreekVillage\Content\ThirdPersonBP\Animations\ThirdPersonWalk.uasset: Failed to load '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton': Can't find file. /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      [2021.09.19-13.14.04:756][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.09.19-13.14.04:760][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.19-13.14.04:760][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.367ms to complete.
+[2021.09.19-13.14.04:760][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.525
+[2021.09.19-13.14.04:765][  0]LogUnrealEdMisc: Total Editor Startup Time, took 54.858
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  [2021.09.19-13.14.05:420][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.09.19-13.14.05:427][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [2021.09.19-13.14.07:438][  0]LogStall: Startup...
+[2021.09.19-13.14.07:440][  0]LogStall: Startup complete.
+[2021.09.19-13.14.07:468][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.09.19-13.14.07:471][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.09.19-13.14.07:471][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.09.19-13.14.07:471][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.09.19-13.14.07:471][  0]LogLoad: (Engine Initialization) Total time: 57.56 seconds
+[2021.09.19-13.14.07:471][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+                                                                                 [2021.09.19-13.14.08:367][  2]LogSlate: Took 0.009457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+                                                                                                                                                                                                                                         [2021.09.19-13.16.31:308][885]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.16.31:308][885]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.16.31:308][885]LogShaderCompilers: Display: Tracking 646 distinct input hashes that result in 416 distinct outputs (64.40%)
+[2021.09.19-13.16.31:309][885]LogShaderCompilers: Display: RAM used: 1.28 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.16%
+[2021.09.19-13.16.31:309][885]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.19.36:790][232]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.19.36:790][232]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.19.36:791][232]LogShaderCompilers: Display: Tracking 1176 distinct input hashes that result in 660 distinct outputs (56.12%)
+[2021.09.19-13.19.36:791][232]LogShaderCompilers: Display: RAM used: 2.52 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.31%
+[2021.09.19-13.19.36:791][232]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.22.38:826][419]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.22.38:826][419]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.22.38:826][419]LogShaderCompilers: Display: Tracking 1816 distinct input hashes that result in 774 distinct outputs (42.62%)
+[2021.09.19-13.22.38:827][419]LogShaderCompilers: Display: RAM used: 3.44 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.42%
+[2021.09.19-13.22.38:827][419]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.25.39:514][198]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.25.39:514][198]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.25.39:514][198]LogShaderCompilers: Display: Tracking 2376 distinct input hashes that result in 899 distinct outputs (37.84%)
+[2021.09.19-13.25.39:514][198]LogShaderCompilers: Display: RAM used: 4.39 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.54%
+[2021.09.19-13.25.39:514][198]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.28.39:524][895]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.28.39:524][895]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.28.39:525][895]LogShaderCompilers: Display: Tracking 3166 distinct input hashes that result in 1001 distinct outputs (31.62%)
+[2021.09.19-13.28.39:525][895]LogShaderCompilers: Display: RAM used: 5.33 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.65%
+[2021.09.19-13.28.39:525][895]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.31.40:684][675]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.31.40:684][675]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.31.40:685][675]LogShaderCompilers: Display: Tracking 4066 distinct input hashes that result in 1069 distinct outputs (26.29%)
+[2021.09.19-13.31.40:685][675]LogShaderCompilers: Display: RAM used: 5.79 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.71%
+[2021.09.19-13.31.40:685][675]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.34.44:177][639]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.34.44:178][639]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.34.44:178][639]LogShaderCompilers: Display: Tracking 4716 distinct input hashes that result in 1226 distinct outputs (26.00%)
+[2021.09.19-13.34.44:178][639]LogShaderCompilers: Display: RAM used: 7.38 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.90%
+[2021.09.19-13.34.44:178][639]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.37.44:337][372]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.37.44:337][372]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.37.44:337][372]LogShaderCompilers: Display: Tracking 5556 distinct input hashes that result in 1406 distinct outputs (25.31%)
+[2021.09.19-13.37.44:337][372]LogShaderCompilers: Display: RAM used: 7.95 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.97%
+[2021.09.19-13.37.44:337][372]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.40.47:812][332]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.40.47:812][332]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.40.47:812][332]LogShaderCompilers: Display: Tracking 6206 distinct input hashes that result in 1679 distinct outputs (27.05%)
+[2021.09.19-13.40.47:812][332]LogShaderCompilers: Display: RAM used: 9.45 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.15%
+[2021.09.19-13.40.47:812][332]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.43.47:993][137]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.43.47:993][137]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.43.47:993][137]LogShaderCompilers: Display: Tracking 6826 distinct input hashes that result in 2043 distinct outputs (29.93%)
+[2021.09.19-13.43.47:993][137]LogShaderCompilers: Display: RAM used: 11.42 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.39%
+[2021.09.19-13.43.47:993][137]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.47.02:046][746]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.47.02:046][746]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.47.02:046][746]LogShaderCompilers: Display: Tracking 7406 distinct input hashes that result in 2290 distinct outputs (30.92%)
+[2021.09.19-13.47.02:046][746]LogShaderCompilers: Display: RAM used: 12.79 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.56%
+[2021.09.19-13.47.02:047][746]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.50.08:013][880]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.50.08:013][880]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.50.08:013][880]LogShaderCompilers: Display: Tracking 7696 distinct input hashes that result in 2447 distinct outputs (31.80%)
+[2021.09.19-13.50.08:013][880]LogShaderCompilers: Display: RAM used: 13.86 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.69%
+[2021.09.19-13.50.08:013][880]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.53.08:122][670]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.53.08:122][670]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.53.08:122][670]LogShaderCompilers: Display: Tracking 8176 distinct input hashes that result in 2635 distinct outputs (32.23%)
+[2021.09.19-13.53.08:122][670]LogShaderCompilers: Display: RAM used: 15.30 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.87%
+[2021.09.19-13.53.08:122][670]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.56.08:620][471]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.56.08:620][471]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.56.08:620][471]LogShaderCompilers: Display: Tracking 8896 distinct input hashes that result in 2976 distinct outputs (33.45%)
+[2021.09.19-13.56.08:620][471]LogShaderCompilers: Display: RAM used: 16.91 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 2.06%
+[2021.09.19-13.56.08:620][471]LogShaderCompilers: Display: ================================================
+[2021.09.19-13.59.10:810][382]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.19-13.59.10:810][382]LogShaderCompilers: Display: Total job queries 15469, among them cache hits 5 (0.03%)
+[2021.09.19-13.59.10:810][382]LogShaderCompilers: Display: Tracking 9406 distinct input hashes that result in 3193 distinct outputs (33.95%)
+[2021.09.19-13.59.10:811][382]LogShaderCompilers: Display: RAM used: 18.14 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 2.21%
+[2021.09.19-13.59.10:811][382]LogShaderCompilers: Display: ================================================
+[2021.09.19-14.37.00:907][289]LogSlate: Took 0.005001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.19-14.38.55:632][ 64]LogSlate: Window 'Message Log' being destroyed
+[2021.09.19-14.39.08:158][445]LogDebuggerCommands: Repeating last play command: Selected Viewport
+                                                                                                                                                                                                                                                                  [2021.09.19-14.39.20:188][445]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
