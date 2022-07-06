@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.third-person-bp-game-template-16682836.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Jeff/SynologyDrive/Coding and Design/Unreal Engine/CreekVillage/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Third Person BP Game Template-16682836 [UE Editor]"
+				}
+			}
+		}
+	]
+}
